@@ -22,8 +22,9 @@ Avoid colliding with your own body; otherwise, the game will end.
 
 Installation
 To play the game:
-Download the .exe file
+Download the .exe file from the given link 
 
+https://merry-macaron-3dd621.netlify.app/
 
 This project is a fun learning journey into game development using Pygame, and I hope you enjoy playing it as much as I enjoyed making it!
 
